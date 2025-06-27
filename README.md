@@ -1,4 +1,7 @@
 # python-from-zero
+1. `python -m venv venv` creates an isolated Python environment named `venv`.
+2. `venv\Scripts\activate` activates that environment so you can install and run packages locally.
+
 list of commonly used Python libraries across various domains, along with the commands to install them using pip.
 
 | Library      | Purpose                        | Install Command          |
