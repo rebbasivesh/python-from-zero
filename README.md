@@ -34,6 +34,41 @@ AI, NLP, and Text Processing
 | `lxml`           | Fast XML/HTML parsing | `pip install lxml`           |
 | `selenium`       | Browser automation    | `pip install selenium`       |
 | `httpx`          | Async HTTP client     | `pip install httpx`          |
+🌐 Web Development
+| `flask`   | Lightweight web apps     | `pip install flask`        |
+| `django`  | Full-stack web framework | `pip install django`       |
+| `fastapi` | Fast web APIs            | `pip install fastapi[all]` |
+🤓 Utility & Fun
+| `pyjokes`  | Random programming jokes | `pip install pyjokes`  |
+| `emoji`    | Emoji support            | `pip install emoji`    |
+| `colorama` | Terminal color support   | `pip install colorama` |
+| `rich`     | Fancy console output     | `pip install rich`     |
+| `faker`    | Generate fake data       | `pip install faker`    |
+| `schedule` | Job scheduling           | `pip install schedule` |
+📂 File / PDF / Excel / Doc Handling
+| `openpyxl`           | Excel handling (.xlsx)       | `pip install openpyxl`    |
+| `pypdf`              | PDF handling                 | `pip install pypdf`       |
+| `docx` (python-docx) | Word documents               | `pip install python-docx` |
+| `pandas`             | Also handles Excel/CSV files | `pip install pandas`      |
+📦 GUI Development
+| `tkinter` | Built-in in Python (no pip) | `import tkinter`    |
+| `pyqt5`   | GUI toolkit                 | `pip install pyqt5` |
+| `kivy`    | Cross-platform GUI          | `pip install kivy`  |
+📸 Image, Audio & Video
+| `opencv-python` | Image processing            | `pip install opencv-python` |
+| `pillow`        | Image processing (PIL fork) | `pip install pillow`        |
+| `pygame`        | Game development & audio    | `pip install pygame`        |
+| `moviepy`       | Video editing               | `pip install moviepy`       |
+| `pydub`         | Audio processing            | `pip install pydub`         |
+
+
+
+
+
+
+
+
+
 
 
 
