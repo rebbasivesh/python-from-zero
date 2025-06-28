@@ -23,6 +23,19 @@ list of commonly used Python libraries across various domains, along with the co
 | `plotly` | Interactive plots          | `pip install plotly` |
 | `bokeh`  | Web-based plots            | `pip install bokeh`  |
 | `dash`   | Web dashboards (by Plotly) | `pip install dash`   |
+AI, NLP, and Text Processing
+| `nltk`         | NLP toolkit                     | `pip install nltk`         |
+| `spacy`        | NLP processing                  | `pip install spacy`        |
+| `transformers` | Pretrained models (HuggingFace) | `pip install transformers` |
+| `textblob`     | Simple NLP processing           | `pip install textblob`     |
+🕸️ Web Scraping
+| `requests`       | HTTP requests         | `pip install requests`       |
+| `beautifulsoup4` | HTML/XML parsing      | `pip install beautifulsoup4` |
+| `lxml`           | Fast XML/HTML parsing | `pip install lxml`           |
+| `selenium`       | Browser automation    | `pip install selenium`       |
+| `httpx`          | Async HTTP client     | `pip install httpx`          |
+
+
 
 
 
