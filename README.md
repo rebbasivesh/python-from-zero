@@ -60,6 +60,11 @@ AI, NLP, and Text Processing
 | `pygame`        | Game development & audio    | `pip install pygame`        |
 | `moviepy`       | Video editing               | `pip install moviepy`       |
 | `pydub`         | Audio processing            | `pip install pydub`         |
+🔐 Cybersecurity & Encryption
+| `cryptography` | Encryption tools        | `pip install cryptography` |
+| `pycryptodome` | Cryptographic functions | `pip install pycryptodome` |
+| `hashlib`      | Built-in hashing        | `import hashlib`           |
+
 
 
 
