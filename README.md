@@ -64,6 +64,12 @@ AI, NLP, and Text Processing
 | `cryptography` | Encryption tools        | `pip install cryptography` |
 | `pycryptodome` | Cryptographic functions | `pip install pycryptodome` |
 | `hashlib`      | Built-in hashing        | `import hashlib`           |
+Automation / OS Tasks
+| `pyautogui` | GUI automation           | `pip install pyautogui` |
+| `keyboard`  | Keyboard automation      | `pip install keyboard`  |
+| `psutil`    | System monitoring        | `pip install psutil`    |
+| `shutil`    | Built-in file operations | `import shutil`         |
+| `os`        | Built-in OS operations   | `import os`             |
 
 
 
