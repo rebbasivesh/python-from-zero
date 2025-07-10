@@ -70,6 +70,10 @@ Automation / OS Tasks
 | `psutil`    | System monitoring        | `pip install psutil`    |
 | `shutil`    | Built-in file operations | `import shutil`         |
 | `os`        | Built-in OS operations   | `import os`             |
+🧪 Testing & Debugging
+| `pytest`   | Unit testing framework | `pip install pytest` |
+| `unittest` | Built-in testing       | `import unittest`    |
+| `doctest`  | Built-in doc testing   | `import doctest`     |
 
 
 
